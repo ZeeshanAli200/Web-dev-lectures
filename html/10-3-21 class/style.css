@@ -1,0 +1,36 @@
+*{
+    font-family: newbrush;
+}
+@font-face{
+    font-family: "newbrush";
+    src: url('fonts/AlexBrush-Regular.ttf');
+}
+.rel{
+    border: 2px solid red;
+    position: relative;
+    top: -60%;
+}
+.rel2{
+    border: 2px solid red;
+    position: relative;
+    top: 50px;
+    left: 20px;
+
+
+}
+p{background-color: rosybrown;}
+h2{
+    border: 1px solid red;
+    position: absolute;
+    top: 80px;
+    right: 0px;
+    z-index: -1;
+}
+h3{
+    border: 1px solid red;
+    position: fixed;
+    z-index: 1;
+    top: 20px;
+    right: 0px;
+    
+}

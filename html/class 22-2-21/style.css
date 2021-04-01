@@ -1,0 +1,28 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    
+}
+div{
+    border-style:solid;
+    padding: inherit;
+    background-color:#4285f4;
+    opacity: 0.6;
+    /* background-color: rgb(rgb(46, 34, 34), green, blue); */
+}
+div>h1,p{
+    
+    border-style: inherit;
+    padding: inherit;
+    /* border-style: inherit; */
+}
+.hexcolor{
+    color: #4285f4;
+}
+.mPage{
+    width: inherit;
+    height: inherit;
+
+    background-color:antiquewhite;
+    
+}

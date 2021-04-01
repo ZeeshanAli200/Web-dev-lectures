@@ -1,0 +1,17 @@
+.hdiv{
+    width: 70%;
+    margin: auto;
+    background-color: #e0e1e1;
+}
+.ldiv{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    
+}
+.lhead{
+    margin: 0%;
+    padding: 1%;
+     
+}

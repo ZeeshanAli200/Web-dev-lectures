@@ -1,0 +1,7 @@
+/* div > div > p {
+    background-color: aqua;
+} */
+
+div div p{
+    background-color: blue;
+}

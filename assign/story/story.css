@@ -1,0 +1,15 @@
+*{
+    background-color: tan;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.storyImg{
+    margin: auto;
+    width: 30%;
+}
+.paraDiv{
+    margin: auto; 
+    width: 60%;
+}
+.paraStyle{
+    text-align:justify
+}

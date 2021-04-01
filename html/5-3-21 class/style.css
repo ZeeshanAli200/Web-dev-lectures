@@ -1,0 +1,16 @@
+/* div{
+    background-color: bisque;
+   
+    max-width: 900px;
+    min-width: 700px;
+}
+p{
+    background-color: cadetblue;
+    width: 80%;
+    height: 100%;
+    overflow: scroll;
+    
+} */
+p{
+    border: 3px dotted ;
+}

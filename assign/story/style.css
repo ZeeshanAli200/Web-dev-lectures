@@ -1,0 +1,25 @@
+*{
+    background-color: tan;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.btnControl{
+    width: 100px;
+    height: 50px; 
+    border-radius: 10%;
+    font-size: 20px;
+    background-color: black;
+    border-style: none;
+    color: tan;
+
+
+}
+.mainhead{
+    text-align: center;
+}
+#butDiv{
+    margin: auto; 
+    width: 10%;
+}
+#mainImg{
+    margin-left: 23%;
+}

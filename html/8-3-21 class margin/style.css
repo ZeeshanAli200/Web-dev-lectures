@@ -1,0 +1,14 @@
+p{
+    border-style: solid;
+    width: 10%;
+    margin:5px auto;
+    display: inline-block;   
+    /* padding: 0 20px; */
+    border-radius: 40px 10px 70px;
+
+}
+/* border image is also discussed */
+i{
+    /* display: none; */
+    visibility: hidden;
+}

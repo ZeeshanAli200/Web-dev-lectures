@@ -1,0 +1,51 @@
+/* h1{
+    text-shadow: 7px 3px 6px rgb(139, 32, 32);
+}
+.n_we{
+    font-weight: normal;
+}
+.b_class{
+    font-weight: bold;
+}
+
+.it{
+    font-weight: bold;
+    font-style: italic;
+    text-transform: capitalize;
+    text-decoration: line-through;
+}
+.obs{
+    text-decoration: overline;
+    font-weight: bold;
+    font-style: oblique;
+    text-transform: uppercase;
+}
+p{
+    text-align: justify;
+    letter-spacing: 0.1em;
+    word-spacing: 1em;
+    line-height: 1em;
+}
+ p::first-letter{
+    font-size: 100px;
+} 
+p::first-line{
+    text-decoration: line-through
+    
+} */
+
+/* 5th march 21 */
+
+a:visited{
+    color: aquamarine;
+}
+input:focus{
+    background-color: bisque;
+}
+button:hover{
+    background-color: cornflowerblue;
+}
+button:active{
+    background-color: coral;
+    color: black;
+}

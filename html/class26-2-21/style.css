@@ -1,0 +1,23 @@
+.outbox{
+    height: 200px;
+    background-color: pink;
+}
+.inner_box{ 
+    /* extreme right val is alpha for opacity if we dont want to apply opacity in font */
+    /* background-color:rgba(0, 0, 0, 0.5);
+    color: red;
+    position: relative;
+    top: 20px;
+    left: 20px; */  
+    
+    /* opacity: 0.5; */
+    position: relative;
+    top: 20px;
+    left: 20px;
+    /* l controls the lightnes of color ***** s denotes amoont of grey 0% value of s is grey */
+    /* background-color: hsl(145, 100%, 60%); */
+    /* alpha controls opacity */
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: hsla(0,0%,0%,0.41);
+}
